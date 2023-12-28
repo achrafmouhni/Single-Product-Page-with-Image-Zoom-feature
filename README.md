@@ -9,5 +9,9 @@ https://github.com/achrafmouhni/Single-Product-Page-with-Image-Zoom-feature/asse
 
 
 ## 🎁 Overview
-### This website is a Single Product Page with Image Zoom feature In Vue and Tailwindcss
+This website is a Single Product Page with Image Zoom feature In Vue and Tailwindcss
+
+### deployment 
+Install dependencies using npm: **npm install**
+To start the development server, run: **npm run dev**
 
