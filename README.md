@@ -1,6 +1,6 @@
 # Single-Product-Page-with-Image-Zoom-feature
 
-##***🌐 Site URL***
+## 🌐 Site URL
 <br>ecdlt-frontend.netlify.app
 
 
@@ -8,6 +8,6 @@ https://github.com/achrafmouhni/Single-Product-Page-with-Image-Zoom-feature/asse
 
 
 
-##***🎁 Overview***
+## 🎁 Overview
 <br>This website is a Single Product Page with Image Zoom feature In Vue and Tailwindcss
 
